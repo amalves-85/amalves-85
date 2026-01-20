@@ -1,4 +1,5 @@
 Sobre mim
+
 Sou DevOps com mais de 15 anos de experiência na área de TI e já atuei em grandes empresas, sempre lidando com ambientes que exigem estabilidade, segurança e entrega contínua.
 
 Meu foco é automatizar e evoluir esteiras CI/CD seguras com ferramentas como Azure DevOps, Jenkins, GitHub Actions e Ansible, ajudando times a fazer deploy com mais agilidade e confiança.
